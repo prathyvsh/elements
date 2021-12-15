@@ -12,4 +12,4 @@ I aim to focus and integrate the research I have been doing in [[https://github.
 
 I have collated a few resources to share in roughly these topics: geometry, logic, UI, development. This is the motif/coordinates using which I will locate these resources. I will highlight one/more parts of this quadrant if the shared resource belongs to it/them.
 
-[[./resource-quadrant.png]]
+[[./resource-quadrant.png?]]
