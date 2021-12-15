@@ -1,0 +1,3 @@
+# Illuminating Euclid’s Elements with Formal Systems
+
+Unraveling Ariadne’s Thread of Logicogeometry
