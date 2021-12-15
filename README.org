@@ -1,3 +1,15 @@
 * Illuminating Euclid’s Elements with Formal Systems
 
+[[./illuminating-euclids-elements-with-formal-systems.png]]
+
 Unraveling Ariadne’s Thread of Logicogeometry
+
+This is an attempt to provide scaffolding for a project I have in mind which could be pursued profitably by someone who wants to get a deep understanding of geometry ∩ logic ∩ UI design ∩ development.
+
+I might conduct this project at some point later in my life but flushing out the details here so if either some fellow knowledge seeker or my future self decides to explore this territory, they have a decent pool of resources to help them on their course.
+
+I aim to focus and integrate the research I have been doing in [[https://github.com/prathyvsh/history-of-logic][the past couple of years in the proximate areas]] to chart useful resources: learning materials, inspirations, literature, prior art etc. that might be helpful to pursue this project.
+
+I have collated a few resources to share in roughly these topics: geometry, logic, UI, development. This is the motif/coordinates using which I will locate these resources. I will highlight one/more parts of this quadrant if the shared resource belongs to it/them.
+
+[[./resource-quadrant.png]]
