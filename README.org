@@ -12,4 +12,13 @@ I aim to focus and integrate the research I have been doing in [[https://github.
 
 I have collated a few resources to share in roughly these topics: geometry, logic, UI, development. This is the motif/coordinates using which I will locate these resources. I will highlight one/more parts of this quadrant if the shared resource belongs to it/them.
 
-[[./resource-quadrant.png?]]
+[[./resource-quadrant.png]]
+
+The idea for this thread was spurred on when I read about how Spinoza presented his work Ethics using the Geometric Method. He used it to demonstrate how human reason follows eternal laws just like how nature does.
+
+[[./spinoza-ethics.png]]
+
+Spinoza’s architectonic project was directed towards achieving a disinterested vantage point from which to understand human reason so as to understand the necessary and sufficient conditions as if from the point of view of eternity: https://en.wikipedia.org/wiki/Sub_specie_aeternitatis
+
+[[./sub-specie-aeternitatis.png]]
+
